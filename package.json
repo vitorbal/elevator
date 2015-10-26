@@ -1,0 +1,22 @@
+{
+  "name": "Elevator",
+  "version": "0.0.1",
+  "description": "Scaffold for web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint && npm run test:unit",
+    "lint": "eslint --rulesdir eslint_rules app/**/*.js",
+    "test:unit": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitorbal/elevator.git"
+  },
+  "author": "Vitor Balocco <vitorbal@gmail.com> (https://github.com/vitorbal)",
+  "license": "MIT",
+  "homepage": "https://github.com/vitorbal/elevator",
+
+  "devDependencies": {
+    "eslint": "^1.7.3"
+  }
+}
