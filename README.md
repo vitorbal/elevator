@@ -8,4 +8,4 @@ All scaffolds contain:
 
 ## Additional stuff per branch:
 
-*master*: React + CSS Modules + Webpack
+`master`: React + CSS Modules + Webpack
